@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dlx13
-- 👀 I’m interested in programming
+- 👀 I’m interested in 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me homa.9931@gmail.com
